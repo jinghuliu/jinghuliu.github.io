@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
+author: Jinghu Liu
 excerpt: "in a crowded world"
 header:
     overlay_image: /assets/images/morning_north_4th_road.jpg
