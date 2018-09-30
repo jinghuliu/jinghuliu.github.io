@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+excerpt: "in a crowded world"
 header:
-    image: /assets/images/morning_north_4th_road.jpg
+    overlay_image: /assets/images/morning_north_4th_road.jpg
+    overlay_filter: rgba(50, 25, 0, 0.5)
+
 
 ---
